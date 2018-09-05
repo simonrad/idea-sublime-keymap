@@ -1,0 +1,18 @@
+My "Select Line" macro is:
+- EditorLineEndWithSelection
+- EditorRightWithSelection
+- EditorSwapSelectionBoundaries
+- EditorLineEndWithSelection
+- EditorLineStartWithSelection
+- EditorLineStartWithSelection
+- EditorSwapSelectionBoundaries
+
+My "Select Code Block" macro is:
+- EditorCodeBlockEndWithSelection
+- EditorSwapSelectionBoundaries
+- EditorCodeBlockStartWithSelection
+- EditorSwapSelectionBoundaries
+
+Copy the "MyLayout.keylayout" file to "~/Library/Keyboard Layouts", then go to
+System Preferences -> Keyboard -> Input Sources -> "+" icon -> Others -> add My Layout.
+This keyboard layout prevents "option + i" from outputting a character.
