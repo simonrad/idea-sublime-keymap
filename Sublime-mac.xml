@@ -36,6 +36,10 @@
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="Console.TableResult.Reload" />
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt p" />
+  </action>
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.PropertiesAction" />
   <action id="DatabaseView.ShowDiff" />
